@@ -4,11 +4,6 @@ from flask import jsonify
 import google.generativeai as genai
 from pdfminer.high_level import extract_text
 
-
-# Configure Gemini API
-# GEMINI_API_KEY = "AIzaSyDID353ct6wTjLA_zUXXO9PgC2i3scuEWA" 
-# genai.configure(api_key=GEMINI_API_KEY)
-
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY") 
 if GEMINI_API_KEY:
     genai.configure(api_key=GEMINI_API_KEY)
