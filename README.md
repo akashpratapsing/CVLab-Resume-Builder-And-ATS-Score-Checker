@@ -21,6 +21,12 @@
 [Watch Demo](project_cvlab.mp4)
 
 
+### 📷 Screenshots  
+| Resume Builder | ATS Score Checker |
+|----------------|-------------------|
+| ![Builder Screenshot](home_page.png) | ![ATS Screenshot](ats.png) |
+
+
 
 ---
 
