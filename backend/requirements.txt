@@ -1,0 +1,10 @@
+Flask==3.0.0
+Jinja2==3.1.2
+PyLaTeX==1.4.2
+Werkzeug==3.0.1
+Flask-Cors==4.0.0
+gunicorn==21.2.0
+pdfminer.six==20221105
+google-generativeai==0.4.0
+
+
